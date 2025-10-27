@@ -10,6 +10,8 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## 🛠️ Languages Used
 - Python 🐍
 - Java ☕
+- C++
+- C
 
 ## 🚀 Goals
 - Solve 1000 problems consistently.

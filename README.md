@@ -14,7 +14,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 - C
 
 ## 🚀 Goals
-- Solve 1000 problems consistently.
+- Solve 200 problems consistently.
 - Strengthen **Data Structures & Algorithms** skills.
 - Improve coding interview preparation.
 
